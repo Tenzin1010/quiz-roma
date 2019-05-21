@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-style: sans-serif;
+    max-width: 700px;
+    margin: auto;
+    font-size: larger;
+}
+
+ul li{
+    display: inline;
+}
+ul {
+    padding: 0px;
+}
+
+
+main {
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 25%;
+}
+
+form {
+    text-align: left;
+   
+}
+
+fieldset {
+    border: none;
+
+}
+.submitAnswerButton {
+    margin-left: 55px;
+}
